@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm M3gaPixel/v1_2.  
-I enjoy making utility mods in a block game.  
+I'm Pixelated.  
 I work in Java, HTML, and Python and currently learning Kotlin.   
 If you wanna message me my discord is v1_2#1234.  
 
