@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pixelated.  
+I'm Pixelated. (v1_2)  
 I work in Java, HTML, and Python and a little bit of Kotlin.   
 If you wanna message me my discord is Pixelated#8736.  
 
